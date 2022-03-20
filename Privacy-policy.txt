@@ -1,0 +1,3 @@
+Camera permission
+The permission to access camera is used to save photos codes in order to provide an easy method for entering device IDs. The app does only local. 
+The permission to access camera is used to shoot photos. This is an optional feature. there no data collection. the app does not need to connect to the internet 
